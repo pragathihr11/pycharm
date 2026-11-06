@@ -1,0 +1,121 @@
+Product ID,Product Category,Product Name,Brand,Price,Customer Rating
+1001,Electronics,Earbuds,Nova,1500,4.1
+1002,Electronics,Keyboard,Orbit,2200,4.3
+1003,Electronics,Mouse,Vertex,2800,4.0
+1004,Electronics,Speaker,Prime,3200,4.5
+1005,Electronics,Smartwatch,Luma,3800,4.2
+1006,Electronics,Webcam,Aster,4200,4.4
+1007,Electronics,Earbuds,Zenith,4600,4.3
+1008,Electronics,Keyboard,Nova,5000,4.6
+1009,Electronics,Mouse,Orbit,5400,4.1
+1010,Electronics,Speaker,Vertex,5800,4.5
+1011,Electronics,Smartwatch,Prime,6200,4.4
+1012,Electronics,Webcam,Luma,6600,4.2
+1013,Electronics,Earbuds,Aster,7000,4.7
+1014,Electronics,Keyboard,Zenith,7400,4.5
+1015,Electronics,Mouse,Nova,7800,4.3
+1016,Electronics,Speaker,Orbit,1800,4.0
+1017,Electronics,Smartwatch,Vertex,3500,4.4
+1018,Electronics,Webcam,Prime,4800,4.6
+1019,Electronics,Earbuds,Luma,6100,4.2
+1020,Electronics,Keyboard,Aster,8000,4.8
+1021,Clothing,TShirt,Nova,900,4.0
+1022,Clothing,Jeans,Orbit,1300,4.2
+1023,Clothing,Shirt,Vertex,1700,4.1
+1024,Clothing,Dress,Prime,2100,4.4
+1025,Clothing,Jacket,Luma,2500,4.3
+1026,Clothing,Hoodie,Aster,2900,4.5
+1027,Clothing,TShirt,Zenith,3300,4.1
+1028,Clothing,Jeans,Nova,3700,4.6
+1029,Clothing,Shirt,Orbit,4100,4.2
+1030,Clothing,Dress,Vertex,4500,4.5
+1031,Clothing,Jacket,Prime,4900,4.4
+1032,Clothing,Hoodie,Luma,5300,4.3
+1033,Clothing,TShirt,Aster,5700,4.7
+1034,Clothing,Jeans,Zenith,6100,4.5
+1035,Clothing,Shirt,Nova,6400,4.6
+1036,Clothing,Dress,Orbit,1100,4.1
+1037,Clothing,Jacket,Vertex,2300,4.4
+1038,Clothing,Hoodie,Prime,3500,4.2
+1039,Clothing,TShirt,Luma,4700,4.5
+1040,Clothing,Jeans,Aster,6000,4.7
+1041,Home Appliances,Mixer,Nova,1800,4.1
+1042,Home Appliances,Kettle,Orbit,2200,4.3
+1043,Home Appliances,Toaster,Vertex,2700,4.0
+1044,Home Appliances,Iron,Prime,3100,4.4
+1045,Home Appliances,Vacuum Cleaner,Luma,3500,4.2
+1046,Home Appliances,Air Fryer,Aster,3900,4.5
+1047,Home Appliances,Mixer,Zenith,4300,4.3
+1048,Home Appliances,Kettle,Nova,4700,4.6
+1049,Home Appliances,Toaster,Orbit,5100,4.1
+1050,Home Appliances,Iron,Vertex,5500,4.5
+1051,Home Appliances,Vacuum Cleaner,Prime,5900,4.4
+1052,Home Appliances,Air Fryer,Luma,6300,4.2
+1053,Home Appliances,Mixer,Aster,6700,4.7
+1054,Home Appliances,Kettle,Zenith,7100,4.5
+1055,Home Appliances,Toaster,Nova,7500,4.3
+1056,Home Appliances,Iron,Orbit,2000,4.0
+1057,Home Appliances,Vacuum Cleaner,Vertex,3300,4.4
+1058,Home Appliances,Air Fryer,Prime,4600,4.6
+1059,Home Appliances,Mixer,Luma,6000,4.2
+1060,Home Appliances,Kettle,Aster,8200,4.8
+1061,Books,Novel,Nova,600,4.1
+1062,Books,Textbook,Orbit,800,4.3
+1063,Books,Cookbook,Vertex,1000,4.0
+1064,Books,Comics,Prime,1200,4.4
+1065,Books,Dictionary,Luma,1400,4.2
+1066,Books,Art Book,Aster,1600,4.5
+1067,Books,Novel,Zenith,1800,4.3
+1068,Books,Textbook,Nova,2000,4.6
+1069,Books,Cookbook,Orbit,2200,4.1
+1070,Books,Comics,Vertex,2400,4.5
+1071,Books,Dictionary,Prime,2600,4.4
+1072,Books,Art Book,Luma,2800,4.2
+1073,Books,Novel,Aster,3000,4.7
+1074,Books,Textbook,Zenith,3200,4.5
+1075,Books,Cookbook,Nova,3400,4.3
+1076,Books,Comics,Orbit,700,4.0
+1077,Books,Dictionary,Vertex,1300,4.4
+1078,Books,Art Book,Prime,1900,4.6
+1079,Books,Novel,Luma,2500,4.2
+1080,Books,Textbook,Aster,4000,4.8
+1081,Beauty,Face Cream,Nova,700,4.1
+1082,Beauty,Shampoo,Orbit,1000,4.3
+1083,Beauty,Perfume,Vertex,1300,4.0
+1084,Beauty,Lipstick,Prime,1600,4.4
+1085,Beauty,Serum,Luma,1900,4.2
+1086,Beauty,Sunscreen,Aster,2200,4.5
+1087,Beauty,Face Cream,Zenith,2500,4.3
+1088,Beauty,Shampoo,Nova,2800,4.6
+1089,Beauty,Perfume,Orbit,3100,4.1
+1090,Beauty,Lipstick,Vertex,3400,4.5
+1091,Beauty,Serum,Prime,3700,4.4
+1092,Beauty,Sunscreen,Luma,4000,4.2
+1093,Beauty,Face Cream,Aster,4300,4.7
+1094,Beauty,Shampoo,Zenith,4600,4.5
+1095,Beauty,Perfume,Nova,4900,4.3
+1096,Beauty,Lipstick,Orbit,850,4.0
+1097,Beauty,Serum,Vertex,1500,4.4
+1098,Beauty,Sunscreen,Prime,2600,4.6
+1099,Beauty,Face Cream,Luma,3500,4.2
+1100,Beauty,Shampoo,Aster,4800,4.8
+1101,Sports,Yoga Mat,Nova,1000,4.1
+1102,Sports,Football,Orbit,1400,4.3
+1103,Sports,Dumbbells,Vertex,1800,4.0
+1104,Sports,Gym Bag,Prime,2200,4.4
+1105,Sports,Badminton Racket,Luma,2600,4.2
+1106,Sports,Running Shoes,Aster,3000,4.5
+1107,Sports,Yoga Mat,Zenith,3400,4.3
+1108,Sports,Football,Nova,3800,4.6
+1109,Sports,Dumbbells,Orbit,4200,4.1
+1110,Sports,Gym Bag,Vertex,4600,4.5
+1111,Sports,Badminton Racket,Prime,5000,4.4
+1112,Sports,Running Shoes,Luma,5400,4.2
+1113,Sports,Yoga Mat,Aster,5800,4.7
+1114,Sports,Football,Zenith,6200,4.5
+1115,Sports,Dumbbells,Nova,6600,4.3
+1116,Sports,Gym Bag,Orbit,1200,4.0
+1117,Sports,Badminton Racket,Vertex,2400,4.4
+1118,Sports,Running Shoes,Prime,3600,4.6
+1119,Sports,Yoga Mat,Luma,4800,4.2
+1120,Sports,Football,Aster,6800,4.8
